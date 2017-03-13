@@ -1,5 +1,6 @@
 # Episode 3 - 革命以後
 > “Nations have no permanent friends or allies, they only have permanent interests.” - Lord Palmerston (1784-1865)
+
 >「世界上沒有永遠的朋友，也沒有永遠的敵人，只有永遠的利益。」
 
 「七七麵包橋事變」後，BBQHK看似沒有太多事情發生，一切貌似正常，除了是臨時禁止會員註冊以外，還有部分活躍會員被封鎖了。事實上，暴風雨來臨的前夕，總是特別平靜的。
