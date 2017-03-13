@@ -1,6 +1,7 @@
 # Episode 7 - 甸‧N‧A
 
 > “When things go wrong, you'll find they usually go on getting worse for some time; but when things once start going right they often go on getting better and better.” - C.S. Lewis (1898-1963)
+>
 >「當有些事出錯的時候，你會發現事情大多會愈來愈差；但當事情一開始便朝好的方向發展，事情將會發展得越來越好。」
 
 與九龍城居民會面之後的那一天，其實已經是新路綫通車前的一天。這個早上，應該沒有甚麼重要的事情做過，最少我對這天早上的事完全沒有印象。這一天第一個印象，該是從香港站乘東涌綫到南昌，在這裡拍拍照後便乘最後一天提供免費接駁服務的K16到尖東站。到了東鐵綫的範圍，拍照地點不外乎都是將要「歸西」的尖東站，以及將會成為兩綫總站的紅磡站。
