@@ -1,6 +1,7 @@
 # Episode 5 - 陰影
 
 >"It's part of what we call the Shadow, all the dark parts of us we can't face. It's the thing that, if we don't deal with it, eventually poisons our lives." - Michael Gruber (1940-)
+
 >「這就是我們所說的陰影部分，我們無法面對的所有陰暗部分。這件事，如果我們不處理，最終將會毒害我們的生活。」
 
 回到姑姐的家，休息了一會兒，收到S的電話。
