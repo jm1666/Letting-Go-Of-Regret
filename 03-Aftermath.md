@@ -1,7 +1,5 @@
----
-title: Episode 3 - 革命以後
-layout: post
----
+# Episode 3 - 革命以後
+
 > “Nations have no permanent friends or allies, they only have permanent interests.” - Lord Palmerston (1784-1865)
 
 >「世界上沒有永遠的朋友，也沒有永遠的敵人，只有永遠的利益。」
