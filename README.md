@@ -1,9 +1,5 @@
-# 今日的我打倒昨日的我。
-那些年，我們做過了許多事，對的、錯的，也很多。
-
-本網由代管，內容並不代表~~Rail Connection~~立場。
-
 ## 目錄 Table of contents
+
 - [Episode 0 - 簡介](00-Introduction.md)
 - [Episode 1 - 一切從鐵路開始](01-EverythingStartFromRail.md)
 - [Episode 2 - 革命](02-Revolution.md)
@@ -36,3 +32,7 @@
 - [Episode 29 - 思念春天](29-Spring.md)
 - [Episode 30 - Rice Club](30-RiceClub.md)
 - [Episode 31 - 樽頸](31-Bottleneck.md)
+
+## 注意
+
+本網內容並不代表~~Rail Connection~~立場。
