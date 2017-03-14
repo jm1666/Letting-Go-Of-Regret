@@ -1,6 +1,7 @@
 # Episode 9 - 埋位，可以嗎？
 
 > “It's better to be boldly decisive and risk being wrong than to agonize at length and be right too late.” - Marilyn Moats Kennedy (1943-)
+> 
 > 「處事寧願大膽果斷、冒著出錯的風險，總好過不斷的道歉和後知後覺。」
 
 整個夏天，雖然與朋友共同度過許多美好的時光，不過AY作出許多損害S利益的事，使整個畫面出現一些美中不足。AY在8月下旬「宣稱」解僱S，作為S的其中一位朋友，聽到如此荒謬的事，我也不得不出手。
